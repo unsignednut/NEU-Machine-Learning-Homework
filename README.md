@@ -1,5 +1,6 @@
 # NEU-Machine-Learning-Homework
 李天牧的作业
+
 本项目是机器学习课程的期末实践成果。针对医疗决策中“黑盒模型”不可解释的痛点，我们构建了一个基于 XGBoost 的糖尿病预测模型，并深入集成了 SHAP (SHapley Additive exPlanations) 解释框架。
 本项目的设计灵感来源于 Lundberg & Lee (2017) 的经典论文 《A Unified Approach to Interpreting Model Predictions》。我们不仅关注预测的准确性，更通过博弈论归因理论实现了从数据处理到个体辅助诊断的完整可解释性闭环。
 
